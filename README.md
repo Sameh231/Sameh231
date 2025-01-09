@@ -1,6 +1,6 @@
 ### Hi there 👋🏻 I'm Sameh Elgbaly
 
-[![Linkedin Badge](https://img.shields.io/badge/SamehElgbaly-30302f?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/feed/))
+[![Linkedin Badge](https://img.shields.io/badge/SamehElgbaly-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![Gmail Badge](https://img.shields.io/badge/aljbalys02@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:aljbalys02@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/SamehElgbaly-30302f?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100043941759239)
 
